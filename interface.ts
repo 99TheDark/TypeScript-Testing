@@ -12,4 +12,4 @@ console.log(isTired({
     name: "TheDark",
     age: 14,
     tired: true
-}));
+}))
